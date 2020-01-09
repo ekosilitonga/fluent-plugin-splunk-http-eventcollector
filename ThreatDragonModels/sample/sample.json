@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "sample",
+    "owner": "eko",
+    "description": "testing"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "eko"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "ekos"
+  }
+}
